@@ -1,0 +1,6 @@
+{
+    "API_HOST": "0.0.0.0",
+    "API_PORT": 8000,
+    "DB_URL" : "sqlite3://api_database.db",
+    "API_TOKEN_HOURS_LIFETIME": 4
+}
